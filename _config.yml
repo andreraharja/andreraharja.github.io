@@ -3,4 +3,4 @@ title: Andre's homepage
 description: Bookmark this to keep an eye on my project updates!
 
 include:
-  - .well-known/apple-app-site-association
+  - .well-known
